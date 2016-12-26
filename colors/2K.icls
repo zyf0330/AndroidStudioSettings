@@ -1,4 +1,5 @@
 <scheme name="2K" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
     <option name="EDITOR_FONT_SIZE" value="21" />
@@ -125,11 +126,6 @@
         <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />

@@ -1,4 +1,4 @@
-<profile version="1.0">
+<inspections profile_name="Project Default" version="1.0">
   <option name="myName" value="Project Default" />
   <inspection_tool class="CoffeeScriptFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -10,4 +10,4 @@
   <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreSemicolonAtEndOfBlock" value="true" />
   </inspection_tool>
-</profile>
+</inspections>

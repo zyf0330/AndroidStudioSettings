@@ -1,11 +1,5 @@
 <scheme name="2K Darcula" version="142" parent_scheme="Darcula">
-  <metaInfo>
-    <property name="created">2016-12-01T10:00:52</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-13T09:54:18</property>
-    <property name="originalScheme">_@user_Darcula</property>
-  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
     <option name="EDITOR_FONT_SIZE" value="21" />
