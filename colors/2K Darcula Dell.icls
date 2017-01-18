@@ -2,19 +2,19 @@
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="29" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="29" />
+    <option name="EDITOR_FONT_SIZE" value="27" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
+    <option name="EDITOR_FONT_SIZE" value="29" />
   </console-font>
   <attributes>
     <option name="DEFAULT_DOC_COMMENT">
