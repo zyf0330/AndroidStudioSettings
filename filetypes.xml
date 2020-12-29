@@ -15,6 +15,7 @@
       <mapping ext="anim" type="PLAIN_TEXT" />
       <mapping ext="prefab" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
